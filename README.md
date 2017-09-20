@@ -1,8 +1,20 @@
 # movies-world
 
-> Movie Database
+> Explore the movie world powered by [omdbapi](http://www.omdbapi.com/)
+
+## Screenshots
+
+![ScreenShot](/screenshots/home.png)
+
+![ScreenShot](/screenshots/movie.png)
+
+
+
 
 ## Build Setup
+
+[![webpack](http://webpack.github.io/assets/logo.png)](http://webpack.github.io)
+
 
 ``` bash
 # install dependencies
@@ -18,4 +30,6 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## License
+
+MIT © [Bharathvaj Ganesan](https://github.com/bharathvaj1995)
